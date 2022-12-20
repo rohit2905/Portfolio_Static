@@ -1,3 +1,4 @@
-# Project 0
+# Portfolio
 
-Web Programming with Python and JavaScript
+STATIC PORTFOLIO PAGE
+Devloped using HTML and CSS
